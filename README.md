@@ -19,6 +19,6 @@ DATAPROCESSING run_analysis.r
 8. Combine "joinedSubjects", "joinedLabels" and "joinedData" by column to dataframe "mergedData".Rename first two columns "subject" and "activity".
 9. Write "mergedData" to "merged_data.txt" file.
 10. 30 subjects with 6 different activity levels result in 180 subject-activity-combinations.For each of the 66 variables calculate the means for the 180 combinations.
-11. Initialize the 180x68 dataframe "dataWithMeans".
-12. Calculate means of variables for all activities per subject in two nested for-loops and write results in corresponding position in "dataWithMeans".
-13. Write "dataWithMeans" to "data_with_means.txt".
+11. Initialize the 180x68 dataframe "tidyData".
+12. Calculate means of variables for all activities per subject in two nested for-loops and write results in corresponding position in "tidyData".
+13. Write "tidyData" to "tidyData.txt".
