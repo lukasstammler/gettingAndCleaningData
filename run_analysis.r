@@ -145,4 +145,4 @@ for(i in 1:imax){
         minMax$Max[j] <- max(test[, i])
         minMax$Mean[j] <- mean(test[, i])
 }
-summary(minMax)      
+print(minMax)      
