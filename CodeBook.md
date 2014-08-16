@@ -22,7 +22,7 @@ Source of Data:
 Datafile:
         https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
         
-Date file retrieved:
+Date dataset retrieved:
         Sat Aug 9 16:36:24 2014
 
 ---------
